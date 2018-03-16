@@ -1,0 +1,23 @@
+.header {
+  height: 70px;
+  background-color: #423f3f;
+  border-bottom: 1px solid #e7e7e7;
+  color: #fff;
+  text-align: center;
+}
+
+.user-item {
+  padding: 2px;
+  color: #fff;
+
+  span {
+    background-color: #3879da;
+    display: inline-block;
+    padding: 5px 7px;
+    border-radius: 3px;
+  }
+}
+
+.back-btn {
+  text-align: left;
+}
